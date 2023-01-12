@@ -1,7 +1,7 @@
-# 📐🖌 An ink calculator made with Rust
+# :triangular_ruler: :paintbrush: An ink calculator made with Rust
 
 
-![🖌An ink calculator made with Rust](https://raw.githubusercontent.com/hebertcisco/rs-ink-calculator/main/.github/assets/images/2023-01-12%2010-06-33.png)
+![:triangular_ruler: :paintbrush:An ink calculator made with Rust](https://raw.githubusercontent.com/hebertcisco/rs-ink-calculator/main/.github/assets/images/2023-01-12%2010-06-33.png)
 
 This project provides a simple calculator that calculates the area of walls, the area of the ceiling and the required liters of paint to finish the room.
 
